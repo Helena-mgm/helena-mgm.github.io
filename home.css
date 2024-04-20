@@ -187,6 +187,7 @@ h3 {
     justify-content: space-around;
     align-items: center;
     margin: 0px 0px 1.25rem 0px;
+    overflow-x: hidden;
 }
 
 #section-skills {
