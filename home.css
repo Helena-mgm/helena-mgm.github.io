@@ -90,6 +90,11 @@ html{
     font-size: 1.563rem;
 }
 
+#photo {
+    height: 300px;
+    width: 200px;
+}
+
 @keyframes typing {
     from { width: 0; }
     to { width: 100%; }
