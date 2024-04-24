@@ -417,6 +417,7 @@ input:checked + .slider:before {
     padding: 1.25rem;
     color: white;
     text-align: center;
+    height: 10rem;
   }
   
   .carousel-caption h2 {
